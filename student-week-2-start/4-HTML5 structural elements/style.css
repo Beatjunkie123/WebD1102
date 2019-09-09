@@ -1,0 +1,22 @@
+body {
+	background-color: #333;
+	color: #F7E9BA;
+	font-family: 'Raleway', Arial, Times;
+	font-size: 35px;
+}
+header, nav, footer, main {
+	padding: 75px;
+}
+header {
+	background-color: #F28281;
+}
+nav {
+	background-color: #12BAA0;
+}
+main {
+	background-color: #180731;
+}
+footer {
+	background-color: #F3C649;
+	color: #180731;
+}
